@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 79,
+          "height" : 75
+        },
+        "cap-insets" : {
+          "bottom" : 73,
+          "top" : 72,
+          "right" : 74,
+          "left" : 73
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "asd.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

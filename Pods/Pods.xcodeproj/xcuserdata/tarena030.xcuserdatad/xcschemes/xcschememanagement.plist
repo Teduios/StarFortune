@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LazyFadeInView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>WebViewJavascriptBridge.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0B313D5693C7C309F32AD40D411F2152</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>24CD4DCFF25604BA61A2ED9C3CC43FDA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A853E51CBCFA52DA0206D6F85981A7F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C89D171981A53DD539B8C744B0D7F614</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

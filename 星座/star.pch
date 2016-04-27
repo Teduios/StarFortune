@@ -1,0 +1,22 @@
+//
+//  star.pch
+//  星座
+//
+//  Created by tarena030 on 16/3/18.
+//  Copyright © 2016年 tarena030. All rights reserved.
+//
+
+#ifndef star_pch
+#define star_pch
+
+#define kWinH [[UIScreen mainScreen] bounds].size.height
+#define kWinW [[UIScreen mainScreen] bounds].size.width
+
+/** RGB颜色宏 */
+#define kRGBColor(R,G,B,Alpha) [UIColor colorWithRed:228/255.0 green:135/255.0 blue:0.0 alpha:1]
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* star_pch */

@@ -1,0 +1,23 @@
+PODS:
+  - LazyFadeInView (1.0.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - WebViewJavascriptBridge (5.0.5)
+  - YYKit (1.0.3):
+    - YYKit/no-arc (= 1.0.3)
+  - YYKit/no-arc (1.0.3)
+
+DEPENDENCIES:
+  - LazyFadeInView (~> 1.0.0)
+  - SDWebImage (~> 3.7.5)
+  - WebViewJavascriptBridge (~> 5.0.5)
+  - YYKit (~> 1.0.3)
+
+SPEC CHECKSUMS:
+  LazyFadeInView: 442c59c427f865754c380b600cc3ac0d750f046a
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  WebViewJavascriptBridge: a4d502315f1b8d9a51cd6a9174147ed567ec3bc5
+  YYKit: fa66d61240458f14562c33c85c91d11131e43261
+
+COCOAPODS: 0.39.0
